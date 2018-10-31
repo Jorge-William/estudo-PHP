@@ -1,0 +1,31 @@
+.borda{
+    border: red solid 1px;
+}
+h1{
+    text-align: center;
+    padding: 60px 60px 60px 60px;
+}
+.espacamento{
+    text-align: center;
+    padding-left: 50px;
+    padding-bottom: 50px;
+   
+}
+.espacamentovideos{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    
+   
+}
+.amarelo{
+    color: rgb(238, 255, 0);
+    font-size: 2em;
+}
+.verde{
+    color: rgb(18, 207, 18);
+    font-size: 2em;
+}
+.numero{
+    font-size: 2em;
+}

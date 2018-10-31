@@ -1,0 +1,28 @@
+
+.cabecalho{
+    padding-top: 15px;
+    height: 130px;
+    width: 100%;
+    background-color: chocolate;
+    text-align: center;
+    color: azure;
+}
+
+.tabela{
+    padding-top: 80px;
+    /**border: 1px solid red;*/
+    height: 250px;
+    width: 350px;
+}
+
+.formulario{
+    padding-top: 80px;
+    padding-left: 100px;
+    /**border: 1px solid red;*/
+    height: 500px;
+    width: 400px;
+}
+
+.txtcentralizado{
+    text-align: center;
+}
