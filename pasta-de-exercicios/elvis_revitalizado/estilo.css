@@ -1,0 +1,25 @@
+.container{
+    margin-top: 70px;
+    margin-bottom: 170px;
+}
+
+#titulo-pagina{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.alertas{
+    padding-top: 130px;
+    padding-bottom: 130px; 
+}
+
+.footer{
+    height: 100px;
+    color: black; 
+    text-align: center;
+    
+}
+
+h1{
+    font-size: 1em;
+}
